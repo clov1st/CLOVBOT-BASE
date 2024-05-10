@@ -43,7 +43,6 @@
 ## Contact and Support
 [![WA AUTHOR](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285892890595)
 [![WA BOT](https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285892890595)
-[![GROUP CHAT](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/C6HnV3PeQgb60EIMul4NX0)
 
 ## Credits
 ```bash
