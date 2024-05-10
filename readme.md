@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/5574b44644f6bd19168ab.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/5574b44644f6bd19168ab.jpg" width="20%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">CLOVBOT - BASE</h1>
 <p align="center">CLOVBOT-BASE is an open-source WhatsApp bot framework that provides a basic but powerful starting point for developers interested in building automated WhatsApp bots. Utilizing the Baileys library, it supports multi-device connections and offers a simple, no-button interaction model. This project is ideal for anyone from beginners to advanced users who want to expand the bot's capabilities through further development. Contributions and feedback are welcome!</p>
