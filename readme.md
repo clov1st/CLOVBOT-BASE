@@ -9,8 +9,7 @@
 - Untuk menambah command, silahkan membuka file `/commands/tes.js` atau `/commands/!bot` sebagai referensinya.
 - Jika kamu mengalami masalah, bisa buat Issues di page ini.
 - Jika ingin ditambahkan fitur lainnya ke CLOVBOT-BASE ini, silahkan Pull Request.
-- Silahkan chat nomor WA di bawah jika ada yang ingin di-request atau pertanyaan lainnya.
-[![WA AUTHOR](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285892890595)
+- Silahkan chat nomor WA di bawah (Contact and Support) jika ada yang ingin di-request atau pertanyaan lainnya.
 
 ### Cara Menjalankan Bot
 1. Clone repositori ini:
@@ -42,6 +41,7 @@
 - ✔️ | And Others
 
 ## Contact and Support
+[![WA AUTHOR](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285892890595)
 [![Group Chat](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/C6HnV3PeQgb60EIMul4NX0)
 [![Bot](https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285892890595)
 
