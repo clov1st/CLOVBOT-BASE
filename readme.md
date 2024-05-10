@@ -48,7 +48,6 @@
 ```bash
 Author: Clov
 WhatsApp: 085892890595
-Library: [Baileys](https://www.npmjs.com/package/@whiskeysockets/baileys)
 Thanks To:
 - @WhiskeySockets/baileys
 - Dan semua yang berkontribusi dalam pengembangan script ini
